@@ -3,13 +3,13 @@
 [![123.hp.com/setup](gett-starteed.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com/)
 
 
-The HP Wireless Printer is easy to set up and provides clear documentation. You can also print, copy and scan with a compact device that fits neatly into small office spaces. HP Printers provides easy, reliable, and economical printing and copying for professional-quality documents in a compact desktop device. To get simple installation setup guidelines, visit the link [aka.ms/mfasetup](https://github.com/123hppcomsetup) below.
+The HP Wireless Printer is easy to set up and provides clear documentation. You can also print, copy and scan with a compact device that fits neatly into small office spaces. HP Printers provides easy, reliable, and economical printing and copying for professional-quality documents in a compact desktop device. To get simple installation setup guidelines, visit the link [123.hp.com/setup](https://github.com/123hppcomsetup) below.
 
 ## Downloading HP Printer Drivers from 123 hp setup.
 
 **_Mention the below steps to download HP printer drivers_**
 
-1. Download HP Printer Drivers from [aka.ms/mfasetup](https://github.com/123hppcomsetup).
+1. Download HP Printer Drivers from [123.hp.com/setup](https://github.com/123hppcomsetup).
 2. Open your web browser and type hp printer.
 3. Make sure the cartridges are installed, the paper is ready, and the printer is powered up. To get the recommended software for your printer, click Download.
 4. Enter the HP Printer model number in the space provided
@@ -29,7 +29,7 @@ The HP Wireless Printer is easy to set up and provides clear documentation. You 
 
 ### **_Hp Printer Wireless Setup for Windows_**
 
-1. Turn on your [aka.ms/mfasetup](https://github.com/123hppcomsetup) printer and computer.
+1. Turn on your [123.hp.com/setup](https://github.com/123hppcomsetup) printer and computer.
 2. Make sure you connect them to the same wireless network.
 3. Place them closer to the router for better signal strength.
 4. The method used here is the Wireless Setup Wizard. Look for the icon on the printer's control panel.
@@ -47,7 +47,7 @@ The HP Wireless Printer is easy to set up and provides clear documentation. You 
 4. Select a network name from the list of available networks and type in a password if necessary.
 5. A steady wireless light indicates that the connection is established.
 6. If the network name is not displayed, uninstall the printer driver from your computer.
-7. Download the driver from [aka.ms/mfasetup](https://github.com/123hppcomsetup) site and install it on your Mac system.
+7. Download the driver from [123.hp.com/setup](https://github.com/123hppcomsetup) site and install it on your Mac system.
 8. Click on the link to start the installation process. Check if the setup file is available in .dmg format.
 9. Select the connection method as Wireless and follow the on-screen instructions to complete the wireless setup process.
 10. Select the option called Finish to complete the process.
